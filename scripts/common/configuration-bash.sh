@@ -3,7 +3,6 @@ echo "Configuring bash with bash-it"
 brew install autojump
 brew install grc
 brew install coreutils
-brew install rbenv
 brew install watch
 cp files/dircolors.ansi-dark ~/.dircolors
 cp files/.inputrc ~/.inputrc
