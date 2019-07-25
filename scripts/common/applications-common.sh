@@ -43,6 +43,7 @@ brew cask install atom
 # Admin tools
 brew install ipcalc
 brew install gnupg
+brew install pwgen
 
 # Misc
 brew cask install spotify
