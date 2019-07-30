@@ -47,5 +47,6 @@ brew install pwgen
 
 # Misc
 brew cask install spotify
+brew cask install skype
 
 set -e
