@@ -6,7 +6,8 @@ echo "Making .bash_profile.d"
 
 mkdir -p ${HOME:?}/.bash_profile.d/
 
-cp -vR $SCRIPTDIR/../../files/.bash_profile.d/ ${HOME:?}/.bash_profile.d/
+cp -vR $SCRIPTDIR/../../files/.bash_profile.d/ ${HOME}/.bash_profile.d/
+cp -vR /Keybase/private/jim80net/.bash_profile.d/ ${HOME}/.bash-profile.d/
 
 
 echo
