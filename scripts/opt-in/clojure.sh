@@ -1,6 +1,6 @@
 #!/bin/bash
 
-brew install emacs
+brew cask install emacs
 
 [[ -x $HOME/bin/lein ]] && {
   $HOME/bin/lein

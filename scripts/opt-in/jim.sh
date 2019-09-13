@@ -18,7 +18,9 @@ brew install mosh
 brew install ripgrep
 brew install fd
 brew install pandoc
+brew install moreutils
 
 brew cask install intel-power-gadget
+
 
 
